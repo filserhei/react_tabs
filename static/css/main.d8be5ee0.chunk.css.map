@@ -1,1 +1,0 @@
-{"version":3,"sources":["App.scss"],"names":[],"mappings":"AAAA,QACI,WAAY,CACZ,qBAAsB","file":"main.d8be5ee0.chunk.css","sourcesContent":[".button {\n    border: none;\n    background-color: #fff;\n}\n\n"]}
